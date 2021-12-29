@@ -5,7 +5,7 @@
 ### LINK: https://github.com/rafaelpdemelo/ScriptVimeoLimitView
 ## Tecnologias Usadas
 
- HTML, JS
+JavaScript
 
 
 
