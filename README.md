@@ -2,7 +2,7 @@
 
 #### Fala pessoal, tudo certo? Como aqui é um lugar onde buscamos aprimorar a API do Memberkit e adicionar novas funcionalidades. Dessa vez, a funcionalidade vai para quem usa o Vímeo como plataforma de Hosting dos vídeos. Ela faz a limitação de views pelo usuário.
 
-### LINK: https://github.com/rafaelpdemelo/ScriptVimeoLimitView
+
 ## Tecnologias Usadas
 
  HTML, JS
