@@ -117,8 +117,3 @@ if (!document.querySelector('nav').innerText.toLowerCase().includes('opções av
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
-<script>
-document.addEventListener("turbo:load", function(){
-  feather.replace()
-})
-</script>
