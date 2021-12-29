@@ -2,7 +2,7 @@
 
 #### Fala pessoal, tudo certo? Como aqui é um lugar onde buscamos aprimorar a API do Memberkit e adicionar novas funcionalidades. Dessa vez, a funcionalidade vai para quem usa o Vímeo como plataforma de Hosting dos vídeos. Ela faz a limitação de views pelo usuário.
 
-
+### LINK: https://github.com/rafaelpdemelo/ScriptVimeoLimitView
 ## Tecnologias Usadas
 
  HTML, JS
@@ -16,7 +16,7 @@
 
 R - Como o MemberKit não permite a alteração do lado do servidor, iremos aplicar o script no body do HTML na parte de configurações da plataforma.
 
-![App Screenshot](https://github.com/rafaelpdemelo/ScriptVimeoLimitView/blob/main/images/ondeaplicar.png)
+![ONDE APLICAR](https://github.com/rafaelpdemelo/ScriptVimeoLimitView/blob/main/images/ondeaplicar.png)
 
 ### OBS: Colocar o código entre a tag <body> --- </body>
 
@@ -36,14 +36,21 @@ R - Não! O Script é feito para Administradores, Moderadores e Atendimento usar
 
 R - Não! O Script funciona em toda a plataforma, logo, o número de views limite é aplicado em TODOS os vídeos da sua plataforma de forma igual. (Só em vídeos que são hospedados no vimeo)
 
+#### Como sei que funcionou?
+
+R - O navegador vai soltar um alert indicando e automaticamente vai "apagar" o iframe do vimeo.
+
+![POPUP](https://github.com/rafaelpdemelo/ScriptVimeoLimitView/blob/main/images/popup.png)
+![IFRAME APAGADO](https://github.com/rafaelpdemelo/ScriptVimeoLimitView/blob/main/images/remocaoiframe.png)
+
 #### Posso alterar o código?
 
 R - Fiquem à vontade para trazer novas funcionalidades! :) 
 
 
+
+
 ## Autor
 
 - [@rafaelpdemelo](https://www.github.com/rafaelpdemelo)
-
-
 
